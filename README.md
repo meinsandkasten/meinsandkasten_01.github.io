@@ -1,8 +1,12 @@
+## Projekt
+
+Erster Versuch. Hier wurden einfach eine index.html und eine about.html Seite erstellt. Außerdem wurde das Theme "jekyll-theme-cayman" angebunde. Es wurde auch lokal installiert. Es handelt sich aber nicht um eine vollständige Webseite mit Navigation etc. Die Seite aus dem \_sites Verzeichnis hat kein CSS. 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/meinsandkasten/meinsandkasten.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site , from the content in your Markdown files.
 
 ### Markdown
 
